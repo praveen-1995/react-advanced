@@ -1,7 +1,11 @@
-import React from 'react';
+import React from "react";
 
 const ErrorExample = () => {
-  return <h2>useState error example</h2>;
+  return (
+    <div className="container">
+      <h2>advanced react tutorial</h2>;
+    </div>
+  );
 };
 
 export default ErrorExample;
